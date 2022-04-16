@@ -1,17 +1,17 @@
-var p1Button = document.querySelector('#p1')
-var p2Button = document.getElementById('p2')
-var resetButton = document.getElementById('reset')
-var p1Display = document.querySelector('#p1Display')
-var p2Display = document.querySelector('#p2Display')
-var numInput = document.querySelector('input')
-var winningScoreDisplay = document.querySelector('p span')
+const p1Button = document.querySelector('#p1')
+const p2Button = document.getElementById('p2')
+const resetButton = document.getElementById('reset')
+const p1Display = document.querySelector('#p1Display')
+const p2Display = document.querySelector('#p2Display')
+const numInput = document.querySelector('input')
+const winningScoreDisplay = document.querySelector('p span')
 
-var p1Score = 0
-var p2Score = 0
-var gameOver = false
-var winningScore = 5
+const p1Score = 0
+const p2Score = 0
+const gameOver = false
+const winningScore = 5
 
-p1Button.addEventListener('click',function(){
+p1Button.addEventListener('click',() =>{
     if(!gameOver){
         p1Score++;
         if(p1Score === winningScore){
@@ -22,7 +22,7 @@ p1Button.addEventListener('click',function(){
     }
 })
 
-p2Button.addEventListener('click',function(){
+p2Button.addEventListener('click',() => {
     if(!gameOver){
         p2Score++;
         if(p2Score === winningScore){
@@ -33,7 +33,7 @@ p2Button.addEventListener('click',function(){
     }
 })
 
-resetButton.addEventListener('click', function(){
+resetButton.addEventListener('click', () => {
     reset()
 })
 function reset(){
@@ -46,7 +46,7 @@ function reset(){
     gameOver = false
 }
 
-numInput.addEventListener('change', function(){
+numInput.addEventListener('change', () => {
     winningScoreDisplay.textContent = numInput.value
     winningScore = Number(numInput.value)
 })

@@ -1,7 +1,7 @@
 var button = document.querySelector('button')
 var isPurple = false
 
-button.addEventListener('click', function(){
+button.addEventListener('click', () => {
     if(isPurple){
         document.body.style.background = 'white'
     } else {
@@ -12,6 +12,6 @@ button.addEventListener('click', function(){
 
 
 //another method using style classs
-//button.addEventListener('click', function(){
+//button.addEventListener('click', () => {
     //document.body.classList.toggle('purple')
 //})
