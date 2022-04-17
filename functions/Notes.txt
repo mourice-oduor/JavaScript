@@ -1,0 +1,9 @@
+==>> Adapted from : https://javascript.info/
+
+Advanced working with functions:
+a) Decorators and forwarding, call/apply-methods
+	https://javascript.info/call-apply-decorators
+
+b) Function binding:
+	https://javascript.info/bind
+
