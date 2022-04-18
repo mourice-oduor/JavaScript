@@ -24,4 +24,18 @@ Advanced working with functions:
 8) For -OF- Loop and use cases
 	https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/
 
+9) Array Methods in ES6
+	Array.from() && Array.of() methods
+	Array.some()
+	Array.find() && Array.findIndex()
+	Array.every()
+
+10) Spread operator (...)
+		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+		https://www.javascripttutorial.net/es6/javascript-spread/
+
+	Can aslo be used to concatenate two arrays in a single line.
+
+
+
 	
