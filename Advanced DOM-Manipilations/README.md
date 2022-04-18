@@ -1,1 +1,1 @@
-#beginner Js projects
+# beginner DOM-Js projects.
