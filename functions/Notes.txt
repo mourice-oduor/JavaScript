@@ -1,10 +1,27 @@
 ==>> Adapted from : https://javascript.info/
 
 Advanced working with functions:
-a) Decorators and forwarding, call/apply-methods
+1) Decorators and forwarding, call/apply-methods
 	https://javascript.info/call-apply-decorators
 
-b) Function binding:
+2) Function binding:
 	https://javascript.info/bind
 
-c) Using "bind" method in a callback function
+3) Using "bind" method in a callback function
+
+4) Using HTML with template string literals
+	can also tag them with css
+
+5) Sanitize data using template string
+	using a javascript library => "dompurify"
+	https://cdnjs.com/libraries/dompurify
+	https://github.com/cure53/DOMPurify
+
+6) String starts with/ends with || includes
+
+7) Destructuring Arrays
+
+8) For -OF- Loop and use cases
+	https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/
+
+	
