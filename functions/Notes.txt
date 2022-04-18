@@ -7,3 +7,4 @@ a) Decorators and forwarding, call/apply-methods
 b) Function binding:
 	https://javascript.info/bind
 
+c) Using "bind" method in a callback function
