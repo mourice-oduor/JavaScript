@@ -36,6 +36,20 @@ Advanced working with functions:
 
 	Can aslo be used to concatenate two arrays in a single line.
 
+11) Creating Methods in Objects(Controllers):
+	NOTE: Do not use arrow functions inside controllers
+		https://www.programiz.com/javascript/constructor-function
+		https://www.javascripttutorial.net/javascript-constructor-function/
+		https://rollbar.com/blog/javascript-constructors/
+		https://javascript.info/constructor-new
+
+12) Promise in ES6:
+https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/
+		https://www.javatpoint.com/es6-promises
+		https://javascript.info/promise-basics
+		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+	
+
 
 
 	
