@@ -30,7 +30,8 @@ Advanced working with functions:
 	Array.find() && Array.findIndex()
 	Array.every()
 
-10) Spread operator (...)
+10) Rest parameters and spread syntax/operator(...)
+		https://javascript.info/rest-parameters-spread#spread-syntax
 		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 		https://www.javascripttutorial.net/es6/javascript-spread/
 
@@ -49,7 +50,7 @@ https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-
 		https://javascript.info/promise-basics
 		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 		
-	Also, using Promise.all() method
+	Also, using Promise.all() method which takes an array of values/elements
 
 13) Using Symbols in ES6:
 		https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/
@@ -57,8 +58,58 @@ https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-
 		https://www.sitepoint.com/es6-symbols-uses/
 		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol
 
+14) ESLint + VSCode: How to Format Your Code Using .eslintrc
+		https://daveceddia.com/vscode-use-eslintrc/
+		https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code
+		
+	Using Airbnb ESlint npm package:
+		https://www.npmjs.com/package/eslint-config-airbnb
+		https://medium.com/@Tunmise/set-up-eslint-with-airbnb-style-guide-in-5-minutes-d7b4cc5707f8
 
-	
+	Eslint Awesome:
+		https://github.com/dustinspecker/awesome-eslint
+		https://awesomejs.dev/for/eslint/
+	Eslint-plugin-html:
+		https://www.npmjs.com/package/eslint-plugin-html
+
+15) Modules, Exports && Imports:
+		https://javascript.info/modules-intro
+		https://javascript.info/import-export
+		https://javascript.info/modules-dynamic-imports
+		
+	A module is just a file. One script is one module. As simple as that.
+
+	Modules can load each other and use special directives export and import to interchange functionality,
+	 call functions of one module from another one:
+			export keyword labels variables and functions that should be accessible from outside the current module.
+			import allows the import of functionality from other modules.
+
+16) Classes:
+			https://javascript.info/classes
+
+17) Constructor, operator "new" :
+		https://javascript.info/constructor-new
+
+18) Property getters and setters:
+		https://javascript.info/property-accessors
+
+19) Generators: 
+		https://javascript.info/generators
+
+20) Proxy and Reflect:
+		https://javascript.info/proxy
+
+21) Map and Set:
+		https://javascript.info/map-set
+
+22) Callbacks Introduction:
+		https://javascript.info/callbacks
+
+23) Async/await:
+		https://javascript.info/async-await
+
+24) Error handling, "try...catch" :
+		https://javascript.info/try-catch
 
 
 
