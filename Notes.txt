@@ -48,6 +48,16 @@ https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-
 		https://www.javatpoint.com/es6-promises
 		https://javascript.info/promise-basics
 		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+		
+	Also, using Promise.all() method
+
+13) Using Symbols in ES6:
+		https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/
+		https://www.javascripttutorial.net/es6/symbol/
+		https://www.sitepoint.com/es6-symbols-uses/
+		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol
+
+
 	
 
 
