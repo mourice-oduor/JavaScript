@@ -4,7 +4,7 @@ console.log("Fetch employees data from a rest dummy API")
 // console.log(emps)
 fetch("http://dummy.restapiexample.com/api/v1/employees")
     .then(data => data.json())
-    .then(employees => console.log(employees))
+    // .then(employees => console.log(employees))
     .catch(err => {
         console.error(err)
     })
